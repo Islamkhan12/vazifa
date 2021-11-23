@@ -20,7 +20,8 @@ function Menu() {
                </li>
              </ul>
                
-              
+              <h3>Katta aksiya</h3>
+              <p>Xazl hafa bomelar</p>
 
            </div>
         </>
