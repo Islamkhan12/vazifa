@@ -1,0 +1,19 @@
+ul {
+     list-style: none;
+     display: inline-block;
+     margin: 0 auto;
+     position: absolute;
+     margin-top: 70px;
+}
+li a{
+    padding: 32px;
+    text-decoration: none;
+}
+.logo{
+    display: inline-block;
+   
+}
+ img{
+     display: inline-block;
+     width: 50%;
+ }
